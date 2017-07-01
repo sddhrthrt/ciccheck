@@ -48,6 +48,10 @@ Application 1 from June 8, 2017  09:09:07 a.m. EDT: status Submitted. (messages:
 
 ```
 
+## TODO
+
+- Andeoid notifications. (of course, I'm kidding!) 
+
 ## Credits
 
 Inspiration from the ultimate mundane project by Karapudi:
