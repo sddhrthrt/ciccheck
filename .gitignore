@@ -1,0 +1,8 @@
+target/
+*.log
+.*.pyc
+*.pyc
+
+# my vim files
+.*.un~
+.*.swp
