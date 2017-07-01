@@ -92,4 +92,6 @@ for idx, app in enumerate(applications):
     fields = [idx, ] + map(lambda e: e.text, app.find_elements_by_xpath(".//td")[3:6])
     print "Application %s from %s: status %s. (messages: %s)"%tuple(fields)
 
-dr.quit()
+
+if driver == 'phantomjs':
+    dr.quit()
