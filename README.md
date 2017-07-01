@@ -21,7 +21,9 @@ have problems. Otherwise, you're on your own)
 
 ## Your credentials:
 
-Update the `data = { }` dictionary with your credentials.
+Update the `data = { }` dictionary in `status.py` with your credentials.
+
+Apologies for not maintaining config separately. Too sleepy.
 
 ## Usage:
 

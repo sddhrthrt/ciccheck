@@ -28,7 +28,7 @@ xpaths = {
         'answer': "//input[@id='answer']",
         '_continuebtn': "//input[@id='_continue']",
         'completedapptable': "//table[@id='completedAppTable']",
-          }
+}
 
 data = {
         'username': "##username##",
@@ -36,11 +36,12 @@ data = {
         'questions': {
             # format:
             # a unique searchword for the question: answer
+            # (these are examples. try and remember all your questions and answers.)
             'favorite pet': 'pet name',
             'mother\'s': 'maiden name',
-            # and so on for all your questions.
+            # .. and so on.
         }
-        }
+}
 
 # convenience:
 def findxpath(dr, path):
