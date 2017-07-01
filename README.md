@@ -45,3 +45,8 @@ Application 0 from May 12, 2017  06:25:12 a.m. EDT: status Refused. (messages: R
 Application 1 from June 8, 2017  09:09:07 a.m. EDT: status Submitted. (messages: Read)
 
 ```
+
+## Credits
+
+Inspiration from the ultimate mundane project by Karapudi:
+https://github.com/kirankaranth1/ApplicationStatusFetcher
